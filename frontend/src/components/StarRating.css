@@ -1,0 +1,32 @@
+.star-rating {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+}
+
+.star {
+  font-size: 1rem;
+}
+
+.star-full {
+  color: #f39c12;
+}
+
+.star-half {
+  color: #f39c12;
+  opacity: 0.6;
+}
+
+.star-empty {
+  color: #ddd;
+}
+
+.rating-value {
+  margin-left: 0.5rem;
+  font-size: 0.85rem;
+}
+
+.no-rating {
+  font-style: italic;
+}
+

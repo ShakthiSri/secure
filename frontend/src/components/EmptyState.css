@@ -1,0 +1,14 @@
+.empty-state {
+  padding: 3rem 2rem;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
+.empty-state h2 {
+  margin: 0 0 0.5rem 0;
+}
+
+.empty-state p {
+  margin: 0;
+}
+
